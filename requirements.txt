@@ -1,0 +1,17 @@
+streamlit
+jira
+PyPDF2
+langchain
+langchain-community
+langchain-ollama
+pandas
+python-dotenv
+openpyxl
+transformers
+torch
+python-docx
+sentence-transformers
+certifi
+faiss-cpu
+requests
+urllib3
